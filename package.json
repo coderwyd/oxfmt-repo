@@ -1,0 +1,23 @@
+{
+  "name": "oxfmt-repo",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite dev"
+  },
+  "dependencies": {
+    "vue": "catalog:prod"
+  },
+  "devDependencies": {
+    "@coderwyd/eslint-config": "catalog:dev",
+    "@vitejs/plugin-vue": "catalog:dev",
+    "eslint": "catalog:dev",
+    "oxfmt": "catalog:dev",
+    "unocss": "catalog:dev",
+    "typescript": "catalog:dev",
+    "vite": "catalog:dev",
+    "vue-tsc": "catalog:dev"
+  },
+  "packageManager": "pnpm@10.30.3"
+}
