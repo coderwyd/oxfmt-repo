@@ -1,4 +1,4 @@
-# Rsbuild Project
+# Vite Project
 
 ## Setup
 
